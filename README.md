@@ -14,28 +14,28 @@
 
 Se muestra a continuación, el árbol de archivos:
 
-.
-├── Carga_de_datos
-│   └── CargaDatos.pdf
-├── Esquema_ER
-│   ├── ERE_libreria.pdf
-│   └── libreria-modelo-ER.jpeg
-├── Generacion_de_codigo
-│   └── Plantilla_Scripts.pdf
-├── Modelo_Logico_Objeto_Relacional
-│   ├── PlantillaOR.pdf
-│   └── UML.PNG
-├── Modelo_Logico_Relacional
-│   ├── modelo_definitivo.png
-│   └── ModeloRelacional.pdf
-├── README.md
-├── Registro_de_Reuniones
-│   └── Registro de reuniones.pdf
-├── Requisitos
-│   └── Requisitos_Libreria.pdf
-└── Scripts
-    ├── script_completo.sql
-    └── script_Original.sql
+.  
+├── Carga_de_datos  
+│   └── CargaDatos.pdf  
+├── Esquema_ER  
+│   ├── ERE_libreria.pdf  
+│   └── libreria-modelo-ER.jpeg  
+├── Generacion_de_codigo  
+│   └── Plantilla_Scripts.pdf  
+├── Modelo_Logico_Objeto_Relacional  
+│   ├── PlantillaOR.pdf  
+│   └── UML.PNG  
+├── Modelo_Logico_Relacional  
+│   ├── modelo_definitivo.png  
+│   └── ModeloRelacional.pdf  
+├── README.md  
+├── Registro_de_Reuniones  
+│   └── Registro de reuniones.pdf  
+├── Requisitos  
+│   └── Requisitos_Libreria.pdf  
+└── Scripts  
+    ├── script_completo.sql  
+    └── script_Original.sql  
 
 ## Definición del supuesto
 
@@ -68,8 +68,20 @@ Después de esquematizar todas las necesidades y requerimientos de este problema
 
 ## Modelo Lógico Objeto-Relacional
 
+Por otro lado, con el objetivo de incorporar funciones del Modelo Orientado a Objetos, se ha creado ademñas el Modelo Lógico Objeto-Relacional. El procedimiento se puede observar en el siguiente enlace: 
+
+[Modelo Lógico Objeto-Relacional](https://github.com/amarleo/ADBD_Proyecto_Final/blob/master/Modelo_Logico_Objeto_Relacional/PlantillaOR.pdf)
+
 ## Generación de Scripts
+
+Después de haber creado el Modelo Lógico Relacional, se ha puesto en práctica la implementación de la Base de Datos a través de PostgreSQL con Scripts. En el siguiente directorio, se encuentran tanto la generación automática de script por parte de la aplicación [MySQL WorkBench](https://www.mysql.com/products/workbench/), como la transformación del mismo para el uso con PostgreSQL.
+
+El directorio se encuentra en el siguiente [enlace](https://github.com/amarleo/ADBD_Proyecto_Final/tree/master/Scripts)
 
 ## Carga de Datos
 
+En el [script_completo](https://github.com/amarleo/ADBD_Proyecto_Final/blob/master/Scripts/script_completo.sql) se muestra además, ejemplos de carga de datos sobre la base de datos creada.
+
 ## Registro de Reuniones
+
+Por último, en el siguiente [enlace](https://github.com/amarleo/ADBD_Proyecto_Final/blob/master/Registro_de_Reuniones/Registro%20de%20reuniones.pdf) se encuentra el registro de todas las reuniones en las que han participado los integrantes del grupo.
