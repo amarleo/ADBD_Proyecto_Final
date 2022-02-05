@@ -68,7 +68,7 @@ Después de esquematizar todas las necesidades y requerimientos de este problema
 
 ## Modelo Lógico Objeto-Relacional
 
-Por otro lado, con el objetivo de incorporar funciones del Modelo Orientado a Objetos, se ha creado ademñas el Modelo Lógico Objeto-Relacional. El procedimiento se puede observar en el siguiente enlace: 
+Por otro lado, con el objetivo de incorporar funciones del Modelo Orientado a Objetos, se ha creado además el Modelo Lógico Objeto-Relacional. El procedimiento se puede observar en el siguiente enlace: 
 
 [Modelo Lógico Objeto-Relacional](https://github.com/amarleo/ADBD_Proyecto_Final/blob/master/Modelo_Logico_Objeto_Relacional/PlantillaOR.pdf)
 
@@ -78,9 +78,15 @@ Después de haber creado el Modelo Lógico Relacional, se ha puesto en práctica
 
 El directorio se encuentra en el siguiente [enlace](https://github.com/amarleo/ADBD_Proyecto_Final/tree/master/Scripts)
 
+Y el informe: 
+
+[Generación de Código](https://github.com/amarleo/ADBD_Proyecto_Final/blob/master/Generacion_de_codigo/Plantilla_Scripts.pdf)
+
 ## Carga de Datos
 
-En el [script_completo](https://github.com/amarleo/ADBD_Proyecto_Final/blob/master/Scripts/script_completo.sql) se muestra además, ejemplos de carga de datos sobre la base de datos creada.
+En el [script_completo](https://github.com/amarleo/ADBD_Proyecto_Final/blob/master/Scripts/script_completo.sql) se muestra además, ejemplos de carga de datos sobre la base de datos creada. El informe se encuentra en el siguiente enlace: 
+
+[Carga de Datos](https://github.com/amarleo/ADBD_Proyecto_Final/blob/master/Carga_de_datos/CargaDatos.pdf)
 
 ## Registro de Reuniones
 
